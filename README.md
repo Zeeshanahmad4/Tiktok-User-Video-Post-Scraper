@@ -1,5 +1,5 @@
 # Tiktok-User-Video-Post-Scraper
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/neptune-ml/open-solution-googleai-object-detection/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
 Scraping Tiktok videos by users in MP4 format.
 
 
