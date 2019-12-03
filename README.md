@@ -1,5 +1,6 @@
 # Tiktok-User-Video-Post-Scraper
-![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
+![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)  | [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) | [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 
 
 Scraping Tiktok videos by users in MP4 format.
