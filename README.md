@@ -43,10 +43,8 @@ Scraping Tiktok videos by users in MP4 format.
 
 
 ## Code
-![Code](https://github.com/Zeeshanahmad4/Indeed-Jobs-Companies-Resume-Scraper-with-and-without-login/blob/master/snaps/final.jpg)
+![Code](https://github.com/Zeeshanahmad4/Tiktok-User-Video-Post-Scraper/blob/master/profile.PNG)
 
-## Output-companies.json
-![Output-Data](https://github.com/Zeeshanahmad4/Indeed-Jobs-Companies-Resume-Scraper-with-and-without-login/blob/master/snaps/company.PNG)
 
 
 ### Built With
@@ -75,6 +73,7 @@ The scraper is for getting all the Videos post uploaded by a specific user.
 Output would be in MP4 format.
 Scraper would need a username of the userprofile whom you desired to scrape videos.
 username can be obtained form third party websites. i.e username : avneetkaur_13
+
 YOU WILL NEED FIREFOX AND GECKO SELENIUM DRIVER TO RUN THIS SCRIPT.
 PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING PYCHARM OR ANY OTHER PYTHON IDE.
 
