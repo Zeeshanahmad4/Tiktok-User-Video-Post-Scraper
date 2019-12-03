@@ -40,7 +40,7 @@ for alpha in videodad:
         print(src)
         print(100*"-")
         print("downloading")
-        urllib.request.urlretrieve(src, r'C:\Users\ahmad\Desktop\Projects\ztiktok\user\{}.mp4'.format(z)) 
+        urllib.request.urlretrieve(src, {}.mp4'.format(z)) 
         print("done")
     except:
         pass
