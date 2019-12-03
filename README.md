@@ -69,10 +69,7 @@ pip install request
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-The scraper is for getting all the Videos post uploaded by a specific user.
-Output would be in MP4 format.
-Scraper would need a username of the userprofile whom you desired to scrape videos.
-username can be obtained form third party websites. i.e username : avneetkaur_13
+The scraper is for getting all the Videos post uploaded by a specific user. The output would be in MP4 format. The scraper would need a username of the user profile whom you desired to scrape videos. username can be obtained from third party websites. i.e username : avneetkaur_13
 
 YOU WILL NEED FIREFOX AND GECKO SELENIUM DRIVER TO RUN THIS SCRIPT.
 PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING PYCHARM OR ANY OTHER PYTHON IDE.
