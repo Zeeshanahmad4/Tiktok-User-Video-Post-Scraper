@@ -83,17 +83,13 @@ PLEASE PLACE THE SCRIPT AND DRIVER IN THE SAME FOLDER AND RUN THE SCRIPT USING P
 
 ```
 ├── README.md
-├── Scraper.py(Full bot , this file is confidential please contact for more info)
-├── Output-job.json (job Sample data)
-├── Output-companies.json.(companies Sample data)
-├── Output-resume.json (resume Sample data)
-
+├── tiktok.py
 
 ```
 
 <!-- ROADMAP -->
 ## Roadmap
-See the [open issues](https://github.com/Zeeshanahmad4/Indeed-Jobs-Companies-Resume-Scraper-with-and-without-login/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Zeeshanahmad4/Tiktok-User-Video-Post-Scraper/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
