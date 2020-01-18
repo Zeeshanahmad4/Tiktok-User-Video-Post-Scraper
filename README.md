@@ -19,10 +19,10 @@ Scraping Tiktok videos by users in MP4 format.
   </a>
   <h3 align="center">Bot/Scraper</h3>
   <h3 align="center">Tiktok videos by users(Profile) in MP4 format</a><br/>
-  Note: TikTok recently make sme changes to thier front end making it impossible to <br/> 
-  Scrape videos so this scraper may not work but now I check all the github nothing is working anymore 
-  If you really need this script you I can rewrite a fully functional script for you (Paid)
-  you can contanct me on skype : zeeshanahmad4</h3>
+  Note: TikTok recently make some changes to their front-end making it impossible to </h3> <br/> <h4 
+  Scrape videos.This scraper may not work anymore. I check all the github nothing is working anymore 
+  If you really need this script. I can rewrite a fully functional script for you (Paid)
+  you can contanct me on skype : zeeshanahmad4 </h4>
 </p>
 
 
