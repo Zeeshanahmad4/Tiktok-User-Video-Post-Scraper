@@ -11,21 +11,6 @@
 Scraping Tiktok videos by users in MP4 format.
 
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/Zeeshanahmad4/Tiktok-User-Video-Post-Scraper">
-    <img src="https://github.com/Zeeshanahmad4/My-Path-to-Python/blob/master/multimedia/bot-136-504893.png" alt="Logo" width="120" height="128">
-  </a>
-  <h3 align="center">Bot/Scraper</h3>
-  <h3 align="center">Tiktok videos by users(Profile) in MP4 format</a><br/>
-  <br/>                 Note<br/> 
-   TikTok recently make some changes to their front-end making it impossible to <br/> 
-  Scrape videos.This scraper may not work anymore. I check all the github nothing is working anymore 
-  If you really need this script I will rewrite a fully functional script for you (Paid) you can contact me on skype : zeeshanahmad4
-  </h3> 
-</p>
-
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
